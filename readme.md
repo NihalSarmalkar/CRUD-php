@@ -1,4 +1,4 @@
-# TWN Website
+# Notes Website
 Notes taking Website buil using PHP. Implemented with CRUD functionalities.
 
 ## Tech Stack
